@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geo_20_地域密着型特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "地域密着型特定施設里山辺の杜【地域密着型特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】松本市里山辺７６-１", "url": "https://www.kaigokensaku.mhlw.go.jp/20/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2090200136-00&ServiceCd=&Type=search", "url2": "http://wwwsatoyamabe-mori.com" }, "geometry": { "type": "Point", "coordinates": [ 137.997905800000012, 36.2467881 ] } },
+{ "type": "Feature", "properties": { "内容": "おはな　和が家【地域密着型特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】長野県岡谷市山手町2-3-26", "url": "https://www.kaigokensaku.mhlw.go.jp/20/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2090400181-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 138.0422446, 36.0650205 ] } }
+]
+}

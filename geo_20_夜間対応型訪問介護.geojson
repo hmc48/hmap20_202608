@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geo_20_夜間対応型訪問介護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "24時間型ホームヘルパーステーションアザレアン【夜間対応型訪問介護】上田市真田町長7329－4サービス付き高齢者向け住宅アザレアン内", "url": "https://www.kaigokensaku.mhlw.go.jp/20/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2090300142-00&ServiceCd=710&Type=search", "url2": "http://www.azarean.jp" }, "geometry": { "type": "Point", "coordinates": [ 138.307784721179132, 36.44336336150733 ] } },
+{ "type": "Feature", "properties": { "内容": "定期巡回ステーションOneMade【夜間対応型訪問介護】長野県飯田市八幡町2038-2", "url": "https://www.kaigokensaku.mhlw.go.jp/20/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2090500386-00&ServiceCd=710&Type=search", "url2": "https://www.mirai-no-kurashi.online/" }, "geometry": { "type": "Point", "coordinates": [ 137.8392182, 35.4971597 ] } }
+]
+}
