@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_20_中等教育学校",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+"features": [
+{ "type": "Feature", "properties": { "P29_001": "20202", "P29_002": "D220320200015", "P29_003": "16003", "P29_004": "松本秀峰中等教育学校", "P29_005": "長野県松本市埋橋2-1-1", "P29_006": "4", "P29_007": "0", "P29_008": "00", "P29_009": null }, "geometry": { "type": "Point", "coordinates": [ 137.979612997753151, 36.230981002815248 ] } }
+]
+}
